@@ -6,3 +6,5 @@ Demo: [Udemy Projects] iOS &amp; Swift - The Complete iOS App Development Bootca
 - [x] Dicee
 - [x] Basic Swift Coding Exercises
 - [x] Magic 8 Ball
+
+### NOTE: Check Objective-C folder for converted projects
