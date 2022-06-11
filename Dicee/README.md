@@ -5,6 +5,7 @@
 
 ## Change log
 - Basic Swift + StoryBoard
+- Auto Layout + Responsive UI
 - Add IBOutlet and IBAction
 - Implement randomElement from an array of strings from viewDidLoad life cycle and button triggers which will be consumed by IBOutlet's image attribute image literal
 
