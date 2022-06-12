@@ -1,9 +1,8 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Xylophone
-<video width="200" controls autoplay>
-    <source src="./../assets/xylophone.mp4" type="video/mp4">
-</video>
+![xylophone video](./../assets/xylophone.mp4)
+
 - AVFoundation
 - AVAudioPlayer
 - DispatchQueue
