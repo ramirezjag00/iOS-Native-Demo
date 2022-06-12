@@ -7,5 +7,6 @@ Demo: [Udemy Projects] iOS &amp; Swift - The Complete iOS App Development Bootca
 - [x] Basic Swift Coding Exercises
 - [x] Magic 8 Ball
 - [x] Calculator Layout
+- [x] Xylophone
 
 ### NOTE: Check Objective-C folder for converted projects
