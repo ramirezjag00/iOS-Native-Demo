@@ -1,5 +1,5 @@
 func exercise() {
-
+    // print an array of current number x to the next number y
     let numbers = [45, 73, 195, 53]
     
     //Write your code here

@@ -1,5 +1,5 @@
 func exercise() {
-
+    // add and update key values in a dictionary
     //Don't change this
     var stockTickers: [String: String] = [
         "APPL" : "Apple Inc", 

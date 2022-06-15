@@ -1,5 +1,6 @@
 //Don't change this code:
 func calculator() {
+  // create add, subtract multiply and divice functions
   let a = Int(readLine()!)! //First input
   let b = Int(readLine()!)! //Second input
   

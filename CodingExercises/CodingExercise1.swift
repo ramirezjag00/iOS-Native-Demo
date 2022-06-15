@@ -1,5 +1,5 @@
 func exercise() {
-
+    // swap a and b
     var a = 5
     var b = 8
     

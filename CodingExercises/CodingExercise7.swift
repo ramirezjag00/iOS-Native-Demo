@@ -2,6 +2,7 @@
 var aNumber =  Int(readLine()!)! 
 
 func dayOfTheWeek(day: Int) {
+  // print dayOfTheWeek based on Int input using switch case
   
   //Write your code inside this function.
     switch day {

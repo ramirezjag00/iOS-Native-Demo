@@ -1,5 +1,5 @@
 func exercise() {
-    
+    // print a 6 character long password from the alphabet array
     
     let alphabet = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"]
     
