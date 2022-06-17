@@ -7,6 +7,7 @@ func exercise() {
         var followers: Int
         var isActive: Bool
         
+        // Initialize the parameters passed to this instance of User struct
         init(name: String, email: String?, followers: Int, isActive: Bool) {
             self.name = name
             self.email = email
@@ -14,6 +15,7 @@ func exercise() {
             self.isActive = isActive
         }
         
+        // Method of user struct
         func logStatus() {
             if (isActive) {
                 print("\(name) is working hard")
