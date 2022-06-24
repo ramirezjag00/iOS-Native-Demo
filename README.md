@@ -11,5 +11,7 @@ Demo: [Udemy Projects] iOS &amp; Swift - The Complete iOS App Development Bootca
 - [x] Egg Timer
 - [x] Quizzler
 - [x] Destini
+- [x] Classes Demo
+- [x] BMI Calculator 
 
 ### NOTE: Check Objective-C folder for converted projects
