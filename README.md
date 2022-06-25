@@ -5,6 +5,7 @@ Demo: [Udemy Projects] iOS &amp; Swift - The Complete iOS App Development Bootca
 - [x] I am Poor
 - [x] Dicee
 - [x] Basic Swift Coding Exercises
+- [x] #100DaysOfSwift checkpoints
 - [x] Magic 8 Ball
 - [x] Calculator Layout
 - [x] Xylophone
@@ -13,5 +14,6 @@ Demo: [Udemy Projects] iOS &amp; Swift - The Complete iOS App Development Bootca
 - [x] Destini
 - [x] Classes Demo
 - [x] BMI Calculator 
+- [x] Tipsy
 
 ### NOTE: Check Objective-C folder for converted projects
