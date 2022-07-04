@@ -1,0 +1,12 @@
+platform :ios, '13.0' # the minimum ios version supported
+
+target 'Flash Chat iOS13' do
+  use_frameworks!
+
+  # Pods for Flash Chat iOS13
+
+  # this is where you initialize pods you searched in cocoapods.org
+  pod 'CLTypingLabel', '~> 0.4.0' # this specifies the version we wanna use based on cocoapods.org
+  pod 'FirebaseAuth'
+  pod 'FirebaseFirestore'
+end
