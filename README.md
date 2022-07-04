@@ -16,6 +16,7 @@ Demo: [Udemy Projects] iOS &amp; Swift - The Complete iOS App Development Bootca
 - [x] BMI Calculator 
 - [x] Tipsy
 - [x] Clima
-- [ ] ByteCoin
+- [x] ByteCoin
+- [x] FlashChat
 
 ### NOTE: Check Objective-C folder for converted projects
