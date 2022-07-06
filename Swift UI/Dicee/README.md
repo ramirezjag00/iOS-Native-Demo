@@ -1,4 +1,4 @@
-# PersonalCard
+# Dicee
 <img src="../../assets/dicee-swiftui.gif" width="200" />
 
 ## Goal
