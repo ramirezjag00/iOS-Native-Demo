@@ -1,7 +1,7 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Calculator
-<img src="./../assets/calculator_auto_layout.gif" width="200" />
+<img src="../../assets/calculator_auto_layout.gif" width="200" />
 
 ## Change log
 - StoryBoard

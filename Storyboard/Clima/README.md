@@ -2,7 +2,7 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 #  Clima
-<img src="./../assets/clima.gif" width="200" />
+<img src="../../assets/clima.gif" width="200" />
 
 ## Our Goal
 

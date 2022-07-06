@@ -1,7 +1,7 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Xylophone
-![xylophone video](./../assets/xylophone.mp4)
+![xylophone video](../../assets/.mp4)
 
 - AVFoundation
 - AVAudioPlayer

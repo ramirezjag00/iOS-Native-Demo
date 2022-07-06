@@ -2,7 +2,7 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 #  Destini
-<img src="./../assets/destini.gif" width="200" />
+<img src="../../assets/destini.gif" width="200" />
 
 - Auto-layout
 - Autoshrink font sizes

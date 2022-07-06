@@ -1,7 +1,7 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Flash-Chat
-<img src="./../assets/flash_chat.gif" width="200" />
+<img src="../../assets/flash_chat.gif" width="200" />
 
 ## Our Goal
 

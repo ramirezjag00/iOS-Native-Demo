@@ -2,7 +2,7 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 #  BMI Calculator
-<img src="./../assets/bmi_calculator.gif" width="200" />
+<img src="../../assets/bmi_calculator.gif" width="200" />
 
 - UISliders
 - Swift Classes

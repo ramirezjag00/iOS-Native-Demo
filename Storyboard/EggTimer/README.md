@@ -1,7 +1,7 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Egg Timer
-![Egg Timer](./../assets/egg_timer.gif)
+<img src="../../assets/egg_timer.gif" width="200" />
 
 - Swift If/ElseIf/Else
 - Swift Switch Statements

@@ -1,5 +1,5 @@
 #  Tips Challenge
-<img src="./../assets/byte_coin.gif" width="200" />
+<img src="../../assets/byte_coin.gif" width="200" />
 
 ## Challenge changelog:
 * UIPickerView 

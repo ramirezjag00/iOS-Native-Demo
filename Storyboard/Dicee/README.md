@@ -1,7 +1,7 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Dicee
-<img src="./../assets/dicee.gif" width="200" />
+<img src="../../assets/dicee.gif" width="200" />
 
 ## Change log
 - Basic Swift + StoryBoard

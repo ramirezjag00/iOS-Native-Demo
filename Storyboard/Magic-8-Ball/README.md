@@ -1,7 +1,7 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Magic 8 Ball
-<img src="./../assets/magic_8_ball.gif" width="200" />
+<img src="../../assets/magic_8_ball.gif" width="200" />
 
 ## Change log
 - Basic Swift + StoryBoard

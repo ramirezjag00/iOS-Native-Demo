@@ -1,5 +1,5 @@
 #  Tips Challenge
-<img src="./../assets/tipsy.gif" width="200" />
+<img src="../../assets/tipsy.gif" width="200" />
 
 ## Challenge changelog:
 - UISteppers

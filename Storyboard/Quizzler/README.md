@@ -2,7 +2,7 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 #  Quizzler
-![Quizzler](./../assets/quizzler.gif)
+<img src="../../assets/quizzler.gif" width="200" />
 
 - Swift Struct
 - MVC
