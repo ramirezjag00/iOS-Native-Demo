@@ -19,4 +19,7 @@ Demo: [Udemy Projects] iOS &amp; Swift - The Complete iOS App Development Bootca
 - [x] ByteCoin
 - [x] FlashChat
 
-### NOTE: Check Objective-C folder for converted projects
+### NOTE:
+- Check Objective-C dir for converted projects (Storyboard)
+- Check Swift UI dir for Swift UI projects
+- Most projects are in Storyboard
