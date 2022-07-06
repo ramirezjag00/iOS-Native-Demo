@@ -20,7 +20,7 @@ struct ContentView: View {
                     }
                 }
             }
-            .listStyle(.plain)
+            .listStyle(PlainListStyle())
             .navigationTitle("H4X0R NEWS")
         }
         .onAppear {
