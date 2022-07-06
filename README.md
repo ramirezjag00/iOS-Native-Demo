@@ -22,6 +22,7 @@
 ### SwiftUI
 - [x] I am Rich
 - [x] Personal Card
+- [x] Dicee
 
 ### Objective-C (Storyboard)
 - [x] Dicee
