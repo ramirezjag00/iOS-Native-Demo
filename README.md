@@ -18,6 +18,7 @@
 - [x] Clima
 - [x] ByteCoin
 - [x] FlashChat
+- [x] Todoey
 
 ### SwiftUI
 - [x] I am Rich
