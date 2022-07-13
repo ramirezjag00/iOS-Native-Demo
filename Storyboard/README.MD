@@ -3,7 +3,6 @@
 - [x] I am Poor
 - [x] Dicee
 - [x] Magic 8 Ball
-- [x] Calculator Layout
 - [x] Xylophone
 - [x] Egg Timer
 - [x] Quizzler
@@ -13,4 +12,5 @@
 - [x] Clima
 - [x] ByteCoin
 - [x] FlashChat
+- [x] Calculator
 - [x] Todoey

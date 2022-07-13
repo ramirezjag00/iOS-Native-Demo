@@ -1,11 +1,18 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Calculator
-<img src="../../assets/calculator_auto_layout.gif" width="200" />
+<img src="../../assets/calculator.gif" width="200" />
 
 ## Change log
 - StoryBoard
 - Auto Layout + Responsive UI
+- MVC
+- optionals
+- IBOutlet and IBActions
+- computed properties (getters/setters)
+- struct vs classes
+- tuples
+- guard let vs if let
 
 # Calculator Layout Boss Challenge
 
