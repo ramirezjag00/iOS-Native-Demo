@@ -1,4 +1,6 @@
 // Day 11 - Checkpoint 6 of https://www.hackingwithswift.com/100/swiftui
+// 1. model and numSeats are private and constant
+// 2. currentGear can be changed, and has a function to change gear from 1-10 only
 
 enum GearDirection {
   case up, down
@@ -37,8 +39,7 @@ struct Car {
 }
 
 // TESTS
-// 1. model and numSeats are private and constant
-// 2. currentGear can be changed, and has a function to change gear from 1-10 only
+
 var car = Car("MyCar", 1)
 
 print(car) // Car(model: "MyCar", numSeats: 1, currentGear: 1)
