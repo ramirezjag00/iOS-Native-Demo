@@ -1,7 +1,6 @@
-# iOS-Udemy-Course [OBJECTIVE-C VERSION]
-Demo: [Udemy Projects] iOS &amp; Swift - The Complete iOS App Development Bootcamp by Dr. Angela Yu
+# [OBJECTIVE-C VERSION]
 
-Goal: To personally learn Storyboard/Objective-C by just converting existing Storyboard/Swift projects
+### Goal: To personally learn Objective-C (Storyboard/UIKit) by just converting existing Swift projects
 
-- [x] **Dicee**
-- [x] **Magic 8 Ball**
+- [x] Dicee
+- [x] Magic 8 Ball
