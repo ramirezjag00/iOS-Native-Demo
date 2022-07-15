@@ -31,6 +31,7 @@
 - [x] Dicee
 - [x] H4X0R NEWS
 - [x] WeSplit
+- [x] Unit Conversion (Challenge)
 
 ### Objective-C (Storyboard / UIKit)
 - [x] Dicee
