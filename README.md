@@ -32,6 +32,7 @@
 - [x] H4X0R NEWS
 - [x] WeSplit
 - [x] Unit Conversion (Challenge)
+- [x] GuessTheFlag
 
 ### Objective-C (Storyboard / UIKit)
 - [x] Dicee

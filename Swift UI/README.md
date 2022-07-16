@@ -8,3 +8,4 @@
 # 100DaysOfSwiftUI
 - [x] WeSplit
 - [x] Unit Conversion (Challenge)
+- [x] GuessTheFlag
