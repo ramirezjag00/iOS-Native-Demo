@@ -7,6 +7,19 @@
 
 import SwiftUI
 
+struct FlagImage: View {
+    var shouldShake: Bool
+    var imageTitle: String
+
+    var body: some View {
+        Image(imageTitle)
+            .renderingMode(.original)
+            .clipShape(Capsule())
+            .shadow(radius: 5)
+            .offset(x: shouldShake ? 30 : 0)
+    }
+}
+
 struct ContentView: View {
     @State private var shouldReset = false
     @State private var startAnimation: Bool = false
@@ -55,11 +68,7 @@ struct ContentView: View {
                         Button {
                             flagTapped(country)
                         } label: {
-                            Image(countries[countries.firstIndex(of: country)!])
-                                .renderingMode(.original)
-                                .clipShape(Capsule())
-                                .shadow(radius: 5)
-                                .offset(x: (startAnimation && country == countries[activeCountry]) ? 30 : 0)
+                            FlagImage(shouldShake: startAnimation && country == countries[activeCountry], imageTitle: countries[countries.firstIndex(of: country)!])
                         }
                     }
                     
