@@ -33,6 +33,7 @@
 - [x] WeSplit
 - [x] Unit Conversion (Challenge)
 - [x] GuessTheFlag
+- [x] BugSweeper (Personal)
 
 ### Objective-C (Storyboard / UIKit)
 - [x] Dicee

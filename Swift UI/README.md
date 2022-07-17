@@ -9,3 +9,4 @@
 - [x] WeSplit
 - [x] Unit Conversion (Challenge)
 - [x] GuessTheFlag
+- [x] BugSweeper
