@@ -34,6 +34,7 @@
 - [x] Unit Conversion (Challenge)
 - [x] GuessTheFlag
 - [x] BugSweeper (Personal)
+- [x] RockPaperScissors (Challenge)
 
 ### Objective-C (Storyboard / UIKit)
 - [x] Dicee

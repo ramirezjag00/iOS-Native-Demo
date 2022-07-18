@@ -10,3 +10,4 @@
 - [x] Unit Conversion (Challenge)
 - [x] GuessTheFlag
 - [x] BugSweeper
+- [x] RockPaperScissors (Challenge)
