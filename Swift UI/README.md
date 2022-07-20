@@ -12,3 +12,4 @@
 - [x] BugSweeper
 - [x] RockPaperScissors (Challenge)
 - [x] BetterRest
+- [x] WordScramble

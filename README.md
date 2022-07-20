@@ -36,6 +36,7 @@
 - [x] BugSweeper (Personal)
 - [x] RockPaperScissors (Challenge)
 - [x] BetterRest
+- [x] WordScramble
 
 ### Objective-C (Storyboard / UIKit)
 - [x] Dicee
