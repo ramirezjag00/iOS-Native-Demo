@@ -13,3 +13,4 @@
 - [x] RockPaperScissors (Challenge)
 - [x] BetterRest
 - [x] WordScramble
+- [x] Edutainment (Challenge)

@@ -37,6 +37,7 @@
 - [x] RockPaperScissors (Challenge)
 - [x] BetterRest
 - [x] WordScramble
+- [x] Edutainment (Challenge)
 
 ### Objective-C (Storyboard / UIKit)
 - [x] Dicee
