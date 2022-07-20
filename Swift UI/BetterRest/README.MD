@@ -3,7 +3,7 @@
 
 ## Goal
 
-BetterRest - predict wake up time based on sleeping pattern data and coffee intak
+BetterRest - predict wake up time based on sleeping pattern data and coffee intake
 
 ## Changelog
 
