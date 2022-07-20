@@ -35,6 +35,7 @@
 - [x] GuessTheFlag
 - [x] BugSweeper (Personal)
 - [x] RockPaperScissors (Challenge)
+- [x] BetterRest
 
 ### Objective-C (Storyboard / UIKit)
 - [x] Dicee

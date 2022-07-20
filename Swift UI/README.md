@@ -11,3 +11,4 @@
 - [x] GuessTheFlag
 - [x] BugSweeper
 - [x] RockPaperScissors (Challenge)
+- [x] BetterRest
