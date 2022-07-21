@@ -14,3 +14,4 @@
 - [x] BetterRest
 - [x] WordScramble
 - [x] Edutainment (Challenge)
+- [x] iExpense

@@ -38,6 +38,7 @@
 - [x] BetterRest
 - [x] WordScramble
 - [x] Edutainment (Challenge)
+- [x] iExpense
 
 ### Objective-C (Storyboard / UIKit)
 - [x] Dicee
