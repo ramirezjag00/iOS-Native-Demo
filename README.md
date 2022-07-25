@@ -39,6 +39,7 @@
 - [x] WordScramble
 - [x] Edutainment (Challenge)
 - [x] iExpense
+- [x] Moonshot
 
 ### Objective-C (Storyboard / UIKit)
 - [x] Dicee
