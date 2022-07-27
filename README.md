@@ -41,6 +41,7 @@
 - [x] iExpense
 - [x] Moonshot
 - [x] Drawing
+- [x] HabitTracker (Challenge)
 
 ### Objective-C (Storyboard / UIKit)
 - [x] Dicee

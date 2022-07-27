@@ -17,3 +17,4 @@
 - [x] iExpense
 - [x] Moonshot
 - [x] Drawing
+- [x] HabitTracker (Challenge)
