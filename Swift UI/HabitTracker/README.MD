@@ -21,3 +21,4 @@ Inspired from [this Dribbble Design](https://dribbble.com/shots/17349871-Habit-T
 - Edit/Delete Habit
 - Local Notifications
 - Sort Habits by trigger time
+- History of past habits and chart
