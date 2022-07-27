@@ -140,6 +140,7 @@ struct ContentView: View {
                         .cornerRadius(10)
                         .shadow(color: Color.gray.opacity(0.1), radius: 10, x: 0, y: -5)
                         .shadow(color: Color.gray.opacity(0.1), radius: 8, x: 0, y: 5)
+                        .padding(.horizontal)
                     } else {
                         VStack(spacing: 20) {
                             ForEach(filteredHabits) { habit in
@@ -328,7 +329,9 @@ struct ContentView: View {
     
     func loadItems() {
         guard habits.items.count > 0 else { filteredHabits = []; return }
-        filteredHabits = habits.items.filter { $0.isDaily ||  (!$0.isDaily && selectedDate >= $0.startDate! && selectedDate <= $0.endDate!) }
+        withAnimation {
+            filteredHabits = habits.items.filter { $0.isDaily ||  (!$0.isDaily && selectedDate >= $0.startDate! && selectedDate <= $0.endDate!) }
+        }
     }
 }
 

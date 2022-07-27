@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		D78B1B0A289101EC00A4ED18 /* Habit.swift in Sources */ = {isa = PBXBuildFile; fileRef = D78B1B09289101EC00A4ED18 /* Habit.swift */; };
-		D78B1B0C2891026000A4ED18 /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = D78B1B0B2891026000A4ED18 /* Bundle-Decodable.swift */; };
 		D78B1B0E2891036E00A4ED18 /* Habits.swift in Sources */ = {isa = PBXBuildFile; fileRef = D78B1B0D2891036E00A4ED18 /* Habits.swift */; };
 		D79A63F0288FEBFE002E35C2 /* HabitTrackerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D79A63EF288FEBFE002E35C2 /* HabitTrackerApp.swift */; };
 		D79A63F2288FEBFE002E35C2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D79A63F1288FEBFE002E35C2 /* ContentView.swift */; };
@@ -19,7 +18,6 @@
 
 /* Begin PBXFileReference section */
 		D78B1B09289101EC00A4ED18 /* Habit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Habit.swift; sourceTree = "<group>"; };
-		D78B1B0B2891026000A4ED18 /* Bundle-Decodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
 		D78B1B0D2891036E00A4ED18 /* Habits.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Habits.swift; sourceTree = "<group>"; };
 		D79A63EC288FEBFE002E35C2 /* HabitTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HabitTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D79A63EF288FEBFE002E35C2 /* HabitTrackerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HabitTrackerApp.swift; sourceTree = "<group>"; };
@@ -62,7 +60,6 @@
 				D79A63EF288FEBFE002E35C2 /* HabitTrackerApp.swift */,
 				D79A63F1288FEBFE002E35C2 /* ContentView.swift */,
 				D7D35F8F2890432E00B89A72 /* AddView.swift */,
-				D78B1B0B2891026000A4ED18 /* Bundle-Decodable.swift */,
 				D78B1B09289101EC00A4ED18 /* Habit.swift */,
 				D78B1B0D2891036E00A4ED18 /* Habits.swift */,
 				D79A63F3288FEC01002E35C2 /* Assets.xcassets */,
@@ -152,7 +149,6 @@
 				D79A63F2288FEBFE002E35C2 /* ContentView.swift in Sources */,
 				D79A63F0288FEBFE002E35C2 /* HabitTrackerApp.swift in Sources */,
 				D78B1B0E2891036E00A4ED18 /* Habits.swift in Sources */,
-				D78B1B0C2891026000A4ED18 /* Bundle-Decodable.swift in Sources */,
 				D78B1B0A289101EC00A4ED18 /* Habit.swift in Sources */,
 				D7D35F902890433000B89A72 /* AddView.swift in Sources */,
 			);
